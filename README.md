@@ -1,4 +1,5 @@
-![Capa do projeto](https://github.com/caiovini64/gifff-app/blob/main/assets/images/cover.png =250x)
+
+<img src="https://github.com/caiovini64/gifff-app/blob/main/assets/images/cover.png" width="200"  />
 
 # Aplicativo de busca de gifsfeito em flutter.
 
