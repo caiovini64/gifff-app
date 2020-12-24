@@ -11,7 +11,7 @@ Projeto de aplicativo para aprender como implementar a lógica do BLoC utilizand
 ## Funcionalidades
 
 - [ ] Ver gifs mais populares 
-- [x] Buscar gifs
+- [ ] Buscar gifs
 - [ ] Baixar gifs
 
 
