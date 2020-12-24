@@ -1,3 +1,5 @@
+https://github.com/caiovini64/gifff-app/blob/main/assets/images/cover.png
+
 # Aplicativo de busca de gifsfeito em flutter.
 
 Projeto de aplicativo para aprender como implementar a lógica do BLoC utilizando o Provider para consumo de API.
