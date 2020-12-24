@@ -1,5 +1,5 @@
 
-<img src="https://github.com/caiovini64/gifff-app/blob/main/assets/images/cover.png" width="200"  />
+<img src="https://github.com/caiovini64/gifff-app/blob/main/assets/images/cover.png" width="400"  />
 
 # Aplicativo de busca de gifsfeito em flutter.
 
